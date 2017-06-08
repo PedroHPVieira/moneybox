@@ -1,0 +1,10 @@
+C:\Users\acqiouser\Desktop\Pedro\Moneybox\Business\bin\Debug\Business.dll.config
+C:\Users\acqiouser\Desktop\Pedro\Moneybox\Business\bin\Debug\Business.dll
+C:\Users\acqiouser\Desktop\Pedro\Moneybox\Business\bin\Debug\Business.pdb
+C:\Users\acqiouser\Desktop\Pedro\Moneybox\Business\bin\Debug\EntityFramework.dll
+C:\Users\acqiouser\Desktop\Pedro\Moneybox\Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acqiouser\Desktop\Pedro\Moneybox\Business\bin\Debug\EntityFramework.xml
+C:\Users\acqiouser\Desktop\Pedro\Moneybox\Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acqiouser\Desktop\Pedro\Moneybox\Business\obj\Debug\Business.dll
+C:\Users\acqiouser\Desktop\Pedro\Moneybox\Business\obj\Debug\Business.pdb
+C:\Users\acqiouser\Desktop\Pedro\Moneybox\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache

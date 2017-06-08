@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moneybox", "Moneybox\Moneybox.csproj", "{F7616C16-A2A6-40DC-ACA0-A91E510198B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moneybox.Tests", "Moneybox.Tests\Moneybox.Tests.csproj", "{30A30914-2299-4822-BE0A-BF46C2902D58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{7B9277C8-8A52-4DAB-AE58-2CF9B7B04679}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7616C16-A2A6-40DC-ACA0-A91E510198B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7616C16-A2A6-40DC-ACA0-A91E510198B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7616C16-A2A6-40DC-ACA0-A91E510198B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7616C16-A2A6-40DC-ACA0-A91E510198B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30A30914-2299-4822-BE0A-BF46C2902D58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A30914-2299-4822-BE0A-BF46C2902D58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A30914-2299-4822-BE0A-BF46C2902D58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A30914-2299-4822-BE0A-BF46C2902D58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B9277C8-8A52-4DAB-AE58-2CF9B7B04679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B9277C8-8A52-4DAB-AE58-2CF9B7B04679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B9277C8-8A52-4DAB-AE58-2CF9B7B04679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B9277C8-8A52-4DAB-AE58-2CF9B7B04679}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
